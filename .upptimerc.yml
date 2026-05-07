@@ -19,8 +19,8 @@ sites:
 status-website:
   cname: status.dds.dot.ca.gov
   logoUrl: https://dot.ca.gov/-/media/dot-media/images/logos/caltrans/caltranslogo.png
-  name: "Status | Caltrans DDS"
-  introTitle: Caltrans DDS Status
+  name: "DDS Status"
+  introTitle: Data and Digital Services Status
   introMessage: ""
   navbar:
     - title: Status
