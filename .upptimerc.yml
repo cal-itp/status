@@ -17,8 +17,7 @@ sites:
     url: https://dbt-docs.dds.dot.ca.gov
 
 status-website:
-  # cname: status.dds.dot.ca.gov
-  baseUrl: /status
+  cname: status.dds.dot.ca.gov
   logoUrl: https://dot.ca.gov/-/media/dot-media/images/logos/caltrans/caltranslogo.png
   name: "Status | Caltrans DDS"
   introTitle: Caltrans DDS Status
