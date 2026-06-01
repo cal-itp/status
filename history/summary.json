@@ -4,19 +4,19 @@
     "url": "https://analysis.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/analysis.dds.dot.ca.gov.ico",
     "slug": "data-analysis-portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 103,
-    "timeWeek": 94,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 260,
+    "timeDay": 162,
+    "timeWeek": 110,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-06-01": 1
+      "2026-06-01": 99
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gtfs.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/gtfs.dds.dot.ca.gov.ico",
     "slug": "gtfs-data",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 93,
-    "timeWeek": 90,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 95,
+    "timeDay": 96,
+    "timeWeek": 91,
+    "timeMonth": 95,
+    "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-06-01": 1
+      "2026-06-01": 98
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://reports.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/reports.dds.dot.ca.gov.ico",
     "slug": "california-gtfs-quality-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 115,
-    "timeWeek": 101,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "93.19%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 560,
+    "timeDay": 116,
+    "timeWeek": 103,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2026-06-01": 0
+      "2026-06-01": 98
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://dbt-docs.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/dbt-docs.dds.dot.ca.gov.ico",
     "slug": "dbt-documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 72,
-    "timeWeek": 148,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 501,
+    "timeDay": 308,
+    "timeWeek": 198,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-06-01": 0
+      "2026-06-01": 98
     }
   }
 ]
