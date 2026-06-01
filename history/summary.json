@@ -4,10 +4,10 @@
     "url": "https://analysis.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/analysis.dds.dot.ca.gov.ico",
     "slug": "data-analysis-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
@@ -15,17 +15,19 @@
     "timeWeek": 94,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-01": 1
+    }
   },
   {
     "name": "GTFS Data",
     "url": "https://gtfs.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/gtfs.dds.dot.ca.gov.ico",
     "slug": "gtfs-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
@@ -33,16 +35,18 @@
     "timeWeek": 90,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-01": 1
+    }
   },
   {
     "name": "California GTFS Quality Dashboard",
     "url": "https://reports.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/reports.dds.dot.ca.gov.ico",
     "slug": "california-gtfs-quality-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 101,
     "timeMonth": 575,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-01": 0
+    }
   },
   {
     "name": "Jupyterhub",
@@ -96,9 +102,9 @@
     "url": "https://dbt-docs.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/dbt-docs.dds.dot.ca.gov.ico",
     "slug": "dbt-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +113,8 @@
     "timeWeek": 148,
     "timeMonth": 500,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-01": 0
+    }
   }
 ]
