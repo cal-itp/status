@@ -15,6 +15,8 @@ sites:
     url: https://metabase.dds.dot.ca.gov
   - name: dbt Documentation
     url: https://dbt-docs.dds.dot.ca.gov
+  - name: TIDES
+    url: https://tides.dds.dot.ca.gov
 
 status-website:
   cname: status.dds.dot.ca.gov
