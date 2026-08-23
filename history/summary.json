@@ -82,21 +82,21 @@
     "url": "https://metabase.dds.dot.ca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.dds.dot.ca.gov.ico",
     "slug": "metabase",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.94%",
-    "time": 722,
-    "timeDay": 229,
-    "timeWeek": 210,
-    "timeMonth": 346,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.91%",
+    "time": 717,
+    "timeDay": 210,
+    "timeWeek": 206,
+    "timeMonth": 341,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2026-05-21": 45,
       "2026-07-25": 56,
-      "2026-08-23": 0
+      "2026-08-23": 39
     }
   },
   {
